@@ -1,0 +1,15 @@
+li {
+    list-style: none;
+}
+
+input {
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    height: 25px;
+}
+
+select {
+    text-align: center;
+    border: 2px solid black;
+}
